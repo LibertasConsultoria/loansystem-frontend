@@ -6,7 +6,7 @@ const API_URL = "https://loansystem-backend.onrender.com";
 
 function ContractList() {
   const [contratos, setContratos] = useState([]);
-  const [loading, setLoading] = useState(true);
+  const [, setLoading] = useState(true);  
   const [editingContract, setEditingContract] = useState(null);
   const [editForm, setEditForm] = useState({});
 
