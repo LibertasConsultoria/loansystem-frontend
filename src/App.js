@@ -7,7 +7,7 @@ import ContractList from './pages/ContractList';
 function App() {
   const [form, setForm] = useState({
     numero_contrato: "",
-    valor_contrato: 383980,
+    valor_contrato: 0.00,
     data_emissao: "2025-06-01",
     data_primeiro_vencimento: "",
     prazo_total: 36,
