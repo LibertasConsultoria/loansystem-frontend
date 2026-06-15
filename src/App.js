@@ -118,7 +118,7 @@ function App() {
   return (
     <Router>
       <div className="container mt-4">
-        <h1 className="text-center mb-4">🚀 Cadastro de Empréstimos Bancários - MINASA IND E COM LTDA</h1>
+        <h1 className="text-center mb-4">🚀 Controle de Contratos - MINASA IND E COM LTDA</h1>
 
         <ul className="nav nav-tabs mb-4">
           <li className="nav-item">
